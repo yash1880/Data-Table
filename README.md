@@ -3,7 +3,7 @@
 ## BookDetail Page
 ![screenshot project](https://github.com/yash1880/Data-Table/blob/e1e68651b5c78ff78e3000daa085bace83abb787/Screenshot%202026-04-17%20155849.png)
 ## AddBook Page
-![screenshot project]()
+![screenshot project](https://github.com/yash1880/Data-Table/blob/bafe5d5c572d1cdcbd9366f067f920c1e30febfc/Screenshot%202026-04-17%20155901.png)
 ## Viewbook page
 ![screenshot project]()
 # Book Data Table
