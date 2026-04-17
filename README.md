@@ -1,5 +1,11 @@
-## Home page
+## Home Page
 ![screenshot project](https://github.com/yash1880/Data-Table/blob/31bd2e583da54f09a3ef007d81629b2e5f7f1a5f/Screenshot%202026-04-17%20155830.png)
+## BookDetail Page
+![screenshot project](https://github.com/yash1880/Data-Table/blob/e1e68651b5c78ff78e3000daa085bace83abb787/Screenshot%202026-04-17%20155849.png)
+## AddBook Page
+![screenshot project]()
+## Viewbook page
+![screenshot project]()
 # Book Data Table
 
 A React-based web application for managing a collection of books. This app allows users to view, add, edit, and delete books with details like name, author, writer, price, description, and image. Data is stored locally in the browser using localStorage.
