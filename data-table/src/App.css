@@ -1,0 +1,32 @@
+body { background-color: #f8f9fa; font-family: sans-serif; }
+
+.book-card { background: #fff; border: 1px solid #e0e0e0 !important; }
+
+.card-img-container {
+  height: 300px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #fff;
+  border-bottom: 1px solid #f1f1f1;
+}
+
+.card-img-container img { max-height: 100%; max-width: 100%; object-fit: contain; }
+
+.price-tag { font-size: 1.2rem; font-weight: 700; color: #28a745; margin-bottom: 15px; }
+
+/* Striped Table Logic */
+.table-striped tbody tr:nth-of-type(odd) { background-color: #ffffff !important; }
+.table-striped tbody tr:nth-of-type(even) { background-color: #f2f2f2 !important; }
+.table-hover tbody tr:hover { background-color: #e9ecef !important; transition: 0.2s; }
+
+.btn-add-cart {
+  background-color: #002aff !important;
+  border: none !important;
+  color: white !important;
+  font-weight: bold !important;
+  padding: 7px 4px !important;
+  border-radius: 5px !important;
+}
+
+.card-button-group { display: flex; gap: 10px; }
